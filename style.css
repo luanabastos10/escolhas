@@ -1,0 +1,42 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #9A43A8; 
+  font-family: "Baskervville SC", serif;
+  font-family: "Moderustic", sans-serif;
+  color: white;
+  font-size: 25px;
+}
+
+input[type="checkbox"]{
+  transform: scale(2);
+  margin-right: 30px;
+}
+
+input[type="text"]{
+  font-size: 30px;
+  width: 230px;
+  border-radius: 200px;
+  border: solid 4px pink;
+    
+}
+
+.hidden{
+  display: none;
+}
+
+.botao{
+  background-color: rgb(245,162,211);
+  font-family: "Baskervville SC", serif;
+  color: white;
+  border: 2px solid rgb(245,162,211);
+  border-radius: 200px;
+  font-size: 25px;
+}
+
+.botao:hover{
+  background-color: rgb(190,45,190);
+  border: solid 2px rgb(94,8,94);
+}
+
+
